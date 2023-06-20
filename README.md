@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-`Software Engineer@Evoluto`
+`Software Engineer@Evolutio`
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antepetkovic0&show_icons=true&count_private=true&include_all_commits=true" />
