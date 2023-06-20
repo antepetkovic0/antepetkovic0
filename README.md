@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Ante Petkovic, Software Engineer @ Evolutio
+
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antepetkovic0&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antepetkovic0&show_icons=true&layout=compact"/>
